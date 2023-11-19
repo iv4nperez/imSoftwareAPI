@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=helpdesk-dev-server.database.windows.net;Initial Catalog=imsoftware;Persist Security Info=False; User ID=helpdesk-admin;Password=h3lpd3sk-4dm1n!@#$" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Database/Model -ContextDir Database/Context -Context APIContext -force -Table  dbo.Users
